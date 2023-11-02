@@ -21,8 +21,6 @@ function evaluate() {
   } catch (error) {
     console.log(error)
   }
-
-  return "success"
 }
 
 evaluate()
